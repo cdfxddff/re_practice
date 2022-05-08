@@ -1,0 +1,10 @@
+p:hover {
+    color:red;
+}
+
+#idid {
+    background-color: aqua;
+}
+.cls{
+    background: linear-gradient(transparent 60%,#ffdfef 0%);
+}
